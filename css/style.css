@@ -1,0 +1,35 @@
+body{
+    background-color: #35afe7;
+    margin: 20px 0;
+    font-family:'Times New Roman', Times, serif 
+}
+
+.wrapper{
+    width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+
+header{
+    padding: 50px;
+}
+
+header > #logo{
+    font-size: 5em;
+
+
+main{
+    padding: 20px;
+}
+
+section{
+    width: 70%
+    float: left;
+}
+
+aside{
+    width: 30
+    float: right;
+}
