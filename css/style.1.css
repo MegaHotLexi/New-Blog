@@ -1,0 +1,10 @@
+body{
+    background-color: #4586de;
+    margin: 20px 0;
+    font-family: 'Times New Roman', Times, serif
+}
+.wrapper{
+    width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+        }
